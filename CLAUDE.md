@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Playwright E2E test suite for the ICARE-CENTRY HR/appointment application (French-language UI). Tests verify core application modules (login, medecins, structures, utilisateurs) via data-driven scenarios.
+Playwright E2E test suite for the ICARE-RPA-CENTER HR/appointment application (French-language UI). Tests verify core application modules (login, medecins, structures, utilisateurs) via data-driven scenarios.
 
 ## Commands
 
